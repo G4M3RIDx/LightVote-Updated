@@ -1,4 +1,4 @@
-DayOrNight
+LightVote
 ==========
 
-Day or Night minecraft Java Plugin
+LightVote minecraft Java Plugin
